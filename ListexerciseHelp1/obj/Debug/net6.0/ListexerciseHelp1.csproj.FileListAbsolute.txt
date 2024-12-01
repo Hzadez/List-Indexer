@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\bin\Debug\net6.0\ListexerciseHelp1.deps.json
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\bin\Debug\net6.0\ListexerciseHelp1.dll
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\bin\Debug\net6.0\ListexerciseHelp1.pdb
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ListexerciseHelp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ListexerciseHelp1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ListexerciseHelp1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ListexerciseHelp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ListexerciseHelp1.dll
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\refint\ListexerciseHelp1.dll
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ListexerciseHelp1.pdb
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListexerciseHelp1\obj\Debug\net6.0\ref\ListexerciseHelp1.dll

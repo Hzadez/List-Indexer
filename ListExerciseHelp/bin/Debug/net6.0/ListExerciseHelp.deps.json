@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListExerciseHelp/1.0.0": {
+        "dependencies": {
+          "ListexerciseHelp1": "1.0.0"
+        },
+        "runtime": {
+          "ListExerciseHelp.dll": {}
+        }
+      },
+      "ListexerciseHelp1/1.0.0": {
+        "runtime": {
+          "ListexerciseHelp1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListExerciseHelp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListexerciseHelp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
