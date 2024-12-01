@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|solutionrelative:listexercisehelp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86B12A87-696F-49CA-87C0-58B920DF123F}|ListexerciseHelp1\\ListexerciseHelp1.csproj|c:\\users\\asus\\desktop\\backend\\listexercisehelp\\listexercisehelp1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86B12A87-696F-49CA-87C0-58B920DF123F}|ListexerciseHelp1\\ListexerciseHelp1.csproj|solutionrelative:listexercisehelp1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|c:\\users\\asus\\desktop\\backend\\listexercisehelp\\listexercisehelp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|solutionrelative:listexercisehelp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|c:\\users\\asus\\desktop\\backend\\listexercisehelp\\listexercisehelp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|solutionrelative:listexercisehelp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|c:\\users\\asus\\desktop\\backend\\listexercisehelp\\listexercisehelp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAD44B1-37EC-44F3-B772-ED05E8389D7C}|ListExerciseHelp\\ListExerciseHelp.csproj|solutionrelative:listexercisehelp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86B12A87-696F-49CA-87C0-58B920DF123F}|ListexerciseHelp1\\ListexerciseHelp1.csproj|c:\\users\\asus\\desktop\\backend\\listexercisehelp\\listexercisehelp1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B12A87-696F-49CA-87C0-58B920DF123F}|ListexerciseHelp1\\ListexerciseHelp1.csproj|solutionrelative:listexercisehelp1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,23 +34,27 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListExerciseHelp\\Program.cs",
               "RelativeDocumentMoniker": "ListExerciseHelp\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListExerciseHelp\\Program.cs",
-              "RelativeToolTip": "ListExerciseHelp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListExerciseHelp\\Program.cs*",
+              "RelativeToolTip": "ListExerciseHelp\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T09:18:45.528Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListExerciseHelp\\Library.cs",
               "RelativeDocumentMoniker": "ListExerciseHelp\\Library.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListExerciseHelp\\Library.cs",
               "RelativeToolTip": "ListExerciseHelp\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwHMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T09:19:12.539Z",
               "EditorCaption": ""
@@ -63,24 +67,20 @@
               "RelativeDocumentMoniker": "ListExerciseHelp\\Book.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListExerciseHelp\\Book.cs",
               "RelativeToolTip": "ListExerciseHelp\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T09:19:01.905Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListexerciseHelp1\\Helper.cs",
               "RelativeDocumentMoniker": "ListexerciseHelp1\\Helper.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Backend\\ListExerciseHelp\\ListexerciseHelp1\\Helper.cs",
               "RelativeToolTip": "ListexerciseHelp1\\Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T09:20:21.167Z",
               "EditorCaption": ""

@@ -16,3 +16,4 @@ C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListExerciseHelp\obj\Debug\net6.0
 C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListExerciseHelp\obj\Debug\net6.0\ListExerciseHelp.pdb
 C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListExerciseHelp\obj\Debug\net6.0\ListExerciseHelp.genruntimeconfig.cache
 C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListExerciseHelp\obj\Debug\net6.0\ref\ListExerciseHelp.dll
+C:\Users\Asus\Desktop\Backend\ListExerciseHelp\ListExerciseHelp\obj\Debug\net6.0\ListExerciseHelp.sourcelink.json

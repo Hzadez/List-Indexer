@@ -22,6 +22,6 @@ namespace ListExerciseHelp
             Name = name;
             Code = Helper.CreateBookCode(name, ID);
         }
-        
+
     }
 }
